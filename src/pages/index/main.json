@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "i-button": "../../../static/button/index",
+    "i-rate": "../../../static/rate/index",
+    "i-icon": "../../../static/icon/index",
+    "i-modal": "../../../static/modal/index"
+  }
+}
